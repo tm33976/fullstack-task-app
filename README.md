@@ -33,8 +33,8 @@ Follow these steps to get a local copy of the project running.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/tm33976/fullstack-task-app.git
+cd fullstack-task-app
 ```
 
 2. Install backend dependencies:
